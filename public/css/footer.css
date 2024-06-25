@@ -1,0 +1,14 @@
+footer{
+    width: 100% !important;
+    height: fit-content;
+    background-color: #3F4E4F;
+    color: lightgray;
+    overflow: hidden;
+    padding-top: 1%;
+    font-style: italic;
+    font-size: small;
+}
+
+footer a{
+    color: lightgray;
+}
